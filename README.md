@@ -1,3 +1,6 @@
+# About
+A portfolio of six real-world data analytics projects completed during my AnalystLab Africa internship using SQL, Python, data visualization, and business intelligence techniques.
+
 # Data Analytics Internship Portfolio
 
 This repository contains projects completed during my Data Analytics Internship at AnalystLab Africa.
