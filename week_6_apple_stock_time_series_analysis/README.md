@@ -1,4 +1,4 @@
-# 📈 Apple Stock Time Series Analysis with Python
+# Apple Stock Time Series Analysis with Python
 
 ## 📌 Project Overview
 
@@ -35,7 +35,7 @@ The project was completed as part of **Week 6** of the **AnalystLab Africa Data 
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - Pandas
@@ -46,7 +46,7 @@ The project was completed as part of **Week 6** of the **AnalystLab Africa Data 
 
 ---
 
-## 🔄 Project Workflow
+## Project Workflow
 
 ### 1. Data Acquisition
 - Retrieved five years of Apple stock market data using the **yFinance** library.
@@ -98,7 +98,7 @@ Several new features were created to enhance the analysis:
 
 ---
 
-## 📊 Visualizations
+## Visualizations
 
 The notebook includes multiple visualizations, including:
 
@@ -111,7 +111,7 @@ The notebook includes multiple visualizations, including:
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
 - Apple's stock demonstrated a strong long-term upward trend despite periods of market volatility.
 - Short-term price fluctuations became easier to interpret using moving averages.
@@ -130,7 +130,7 @@ The notebook includes multiple visualizations, including:
 ---
 
 ---
-## 🚀 Skills Demonstrated
+## Skills Demonstrated
 
 - Advanced Pandas
 - Time-Series Analysis
