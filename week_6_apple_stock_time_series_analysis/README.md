@@ -121,7 +121,7 @@ The notebook includes multiple visualizations, including:
 
 ---
 
-## 💡 Recommendations
+## Recommendations
 
 - Use moving averages alongside closing prices to better identify long-term market trends.
 - Monitor volatility to understand periods of increased investment risk.
