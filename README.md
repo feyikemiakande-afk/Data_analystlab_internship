@@ -75,8 +75,22 @@ Key Insights:
 - Customer behaviour was a stronger predictor than account balance.
 
 
-### Week 6
-Coming Soon
+### Week 6: Advanced Python Analysis – Apple Stock Time Series Analysis
+
+**Tools Used:**
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- yFinance
+
+**Key Insights:**
+
+- Apple's stock price exhibited a strong long-term upward trend despite periods of market volatility.
+- Short-term and long-term moving averages effectively highlighted price trends and market fluctuations.
+- Daily and monthly return analyses identified periods of strong performance and temporary market corrections.
+- Feature engineering, including daily price changes, moving averages, and rolling volatility, provided deeper insights into stock performance over time.
 
 ## Week 7
 Coming Soon
